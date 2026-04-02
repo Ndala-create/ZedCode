@@ -1,23 +1,32 @@
-<<<<<<< HEAD
-# React + Vite
+# ZamCode Academy 🇿🇲
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A free coding education app built for Zambian secondary school students (Forms 1–4).
 
-Currently, two official plugins are available:
+## 🌐 Live App
+👉 **[https://Ndala-create.github.io/ZedCode/](https://Ndala-create.github.io/ZedCode/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📚 What it covers
+- **Pascal** — 17 lessons
+- **C++** — 18 lessons
+- **Python** — 20 lessons
+- **SQL** — 15 lessons
+- **HTML** — 15 lessons
 
-## React Compiler
+## ✨ Features
+- 85 lessons with Zambian real-world scenarios
+- ECZ exam tips on commonly examined topics
+- Step-through code tracer
+- Worked examples for every topic
+- 3-question quiz per lesson
+- Games Zone: Bug Hunt, Match the Output, Speed Quiz
+- Dark mode and font size toggle
+- Works offline — progress saved across sessions
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## 🎯 Built for
+Zambian secondary school students preparing for ECZ Computer Studies exams.
 
-Note: This will impact Vite dev & build performances.
+## 🛠 Built with
+React · Vite · JavaScript
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# ZedCode
-Offline programming learning app for Zambian teachers and students.
->>>>>>> 071189c03792f636e9f349679c80442ee00b430c
+## 👨‍💻 Developer
+Built by Ndala
